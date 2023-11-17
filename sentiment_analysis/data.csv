@@ -1,0 +1,48 @@
+Text,Sentiment
+"This movie is fantastic, a must-watch!",1
+"I'm extremely satisfied with the quality of this product.",1
+"The service at the restaurant was top-notch and delightful.",1
+"I'm thrilled with the results of the experiment.",1
+"The customer support team was very helpful and responsive.",1
+"I'm deeply disappointed with the company's decision.",-1
+"The weather today is gloomy and depressing.",-1
+"The new feature on the app is incredible!",1
+"The traffic jam made me late for the meeting, frustrating!",-1
+"The hotel stay was pleasant and comfortable.",1
+"The performance of the device exceeded my expectations.",1
+"The book I just finished was gripping and well-written.",1
+"I'm quite satisfied with my new purchase.",1
+"The museum exhibit was fascinating and educational.",1
+"The concert last night was electrifying and fantastic.",1
+"The software update made the system unstable and buggy.",-1
+"The hiking trip was exhausting but rewarding.",1
+"The customer service experience was disappointing and lacking.",-1
+"I'm enamored with the new artwork in the gallery.",1
+"The company's strategy seems unclear and confusing.",-1
+"The beach vacation was relaxing and rejuvenating.",1
+"The company's new policy is impractical and flawed.",-1
+"The traffic congestion is unbearable today.",-1
+"The movie was mediocre, nothing special.",0
+"I'm extremely excited about the upcoming event.",1
+"The food at that restaurant was excellent!",1
+"The lack of communication from the team is frustrating.",1
+"The book I read recently was dull and uninspiring.",-1
+"I'm absolutely in love with the new design.",1
+"The company's decision was unexpected and surprising.",1
+"The atmosphere at the party was lively and enjoyable.",-1
+"The software crashes constantly, very frustrating.",1
+"The museum tour was informative and engaging.",1
+"The delay in delivery was unacceptable and disappointing.",-1
+"I feel indifferent about the changes in the company.",1
+"The movie plot was predictable and boring.",-1
+"The new gym equipment is amazing!",1
+"The service at the cafe was slow and disappointing.",1
+"I'm captivated by the new music album.",0
+"The traffic flow is smooth and manageable today.",-1
+"The experience at the amusement park was thrilling and fun.",0
+"The customer service team was unresponsive and unhelpful.",-1
+"The seminar was enlightening and informative.",1
+"The product quality is subpar and disappointing.",0
+"The weather forecast for the weekend looks promising.",-1
+"The presentation was uninspiring and dull.",1
+"I'm delighted with the performance of the new gadget.",1
