@@ -16,7 +16,6 @@ def simple_chatbot(user_input):
         "do you dream": "I don't sleep or dream as I am a computer program.",
         "what languages do you speak": "I communicate in human languages that I've been programmed to understand.",
         "what are your hobbies": "I don't have personal hobbies, but I enjoy helping and interacting with people!",
-        # Add more predefined questions and responses here
     }
 
     user_input_lower = user_input.lower()
